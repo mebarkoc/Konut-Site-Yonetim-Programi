@@ -1,0 +1,24 @@
+Fitness Salonu: Ana Fitness Salonu
+Havuz: Ana Yüzme Havuzu
+
+Daireler: 
+Daire No: 1
+Daire No: 2
+Daire No: 3
+Daire No: 4
+Daire No: 5
+Daire No: 6
+Daire No: 7
+Daire No: 8
+Daire No: 9
+Daire No: 10
+Daire No: 11
+Daire No: 12
+Daire No: 13
+Daire No: 14
+Daire No: 15
+Daire No: 16
+Daire No: 17
+Daire No: 18
+Daire No: 19
+Daire No: 20
