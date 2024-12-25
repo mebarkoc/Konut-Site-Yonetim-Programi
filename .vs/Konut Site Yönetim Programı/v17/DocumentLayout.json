@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammed Emin BARKO\u00C7\\Desktop\\SAKARYA \u00DCN\u0130VERS\u0130TES\u0130\\2023-2024 G\u00FCz D\u00F6nemi\\Programlamaya Giri\u015F\\Proje\\Konut Site Y\u00F6netim Program\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05F4DC4B-9B5C-4CB1-B894-83A103B9D429}|Konut Site Y\u00F6netim Program\u0131\\Konut Site Y\u00F6netim Program\u0131.vcxproj|C:\\Users\\Muhammed Emin BARKO\u00C7\\Desktop\\SAKARYA \u00DCN\u0130VERS\u0130TES\u0130\\2023-2024 G\u00FCz D\u00F6nemi\\Programlamaya Giri\u015F\\Proje\\Konut Site Y\u00F6netim Program\u0131\\Konut Site Y\u00F6netim Program\u0131\\Konut Site Y\u00F6netim Program\u0131.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05F4DC4B-9B5C-4CB1-B894-83A103B9D429}|Konut Site Y\u00F6netim Program\u0131\\Konut Site Y\u00F6netim Program\u0131.vcxproj|solutionrelative:Konut Site Y\u00F6netim Program\u0131\\Konut Site Y\u00F6netim Program\u0131.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Konut Site Y\u00F6netim Program\u0131.cpp",
+              "DocumentMoniker": "C:\\Users\\Muhammed Emin BARKO\u00C7\\Desktop\\SAKARYA \u00DCN\u0130VERS\u0130TES\u0130\\2023-2024 G\u00FCz D\u00F6nemi\\Programlamaya Giri\u015F\\Proje\\Konut Site Y\u00F6netim Program\u0131\\Konut Site Y\u00F6netim Program\u0131\\Konut Site Y\u00F6netim Program\u0131.cpp",
+              "RelativeDocumentMoniker": "Konut Site Y\u00F6netim Program\u0131\\Konut Site Y\u00F6netim Program\u0131.cpp",
+              "ToolTip": "C:\\Users\\Muhammed Emin BARKO\u00C7\\Desktop\\SAKARYA \u00DCN\u0130VERS\u0130TES\u0130\\2023-2024 G\u00FCz D\u00F6nemi\\Programlamaya Giri\u015F\\Proje\\Konut Site Y\u00F6netim Program\u0131\\Konut Site Y\u00F6netim Program\u0131\\Konut Site Y\u00F6netim Program\u0131.cpp",
+              "RelativeToolTip": "Konut Site Y\u00F6netim Program\u0131\\Konut Site Y\u00F6netim Program\u0131.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-25T20:20:08.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
